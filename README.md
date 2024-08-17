@@ -1,5 +1,5 @@
 // Author: Peter Nassrat // Date: 12/2021 //
-# UNIVERSITY REGISTRATION SYSTEM
+# COLLEGE REGISTRATION SYSTEM
 **Object-Oriented Project:**\
 This is an Object-Oriented project built with **Java** language as a **java console application** executable on any **java IDE**.
 
