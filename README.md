@@ -1,7 +1,7 @@
 // Author: Peter Nassrat // Date: 12/2021 //
 # COLLEGE REGISTRATION SYSTEM
 **Object-Oriented Project:**\
-This is an Object-Oriented project built with **Java** language as a **java console application** executable on any **java IDE**.
+An Object-Oriented project built with **Java** language as a **Java console application** executable on any **Java IDE** that manages all College staff information.
 
 To open the project, you should **download all files** and **open** the **TheProgram.java** file that **exists** on **src\\ProjectPackage\\** with any **java IDE** and then run or edit it.
 
